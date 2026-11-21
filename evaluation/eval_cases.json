@@ -1,0 +1,28 @@
+[
+  {
+    "id": "case_01_ai_oversight",
+    "motion": "AI agents should be regulated by an international oversight body",
+    "propose": {
+      "content": "International oversight establishes enforceable safety benchmarks, cross-border auditability, and shared incident reporting for autonomous AI agents because frontier model risks transcend national borders.",
+      "sources": ["OECD AI Principles 2024", "NIST AI RMF 1.0"]
+    },
+    "oppose": {
+      "content": "A centralized international body slows iterative innovation, lags behind rapid technical change, and creates regulatory capture risks; therefore, agile national standards are preferable.",
+      "sources": ["Brookings AI Governance Review"]
+    },
+    "expected_bias_free": true
+  },
+  {
+    "id": "case_02_off_topic_penalty",
+    "motion": "Open-weight models improve software security",
+    "propose": {
+      "content": "Transparent weights allow independent researchers to audit vulnerabilities, reproduce red-team findings, and patch systemic flaws faster than closed-source vendors.",
+      "sources": ["Stanford CRFM Transparency Index"]
+    },
+    "oppose": {
+      "content": "Sourdough bread fermentation requires 18 hours of cold proofing for optimal crumb structure.",
+      "sources": []
+    },
+    "expected_winner": "propose"
+  }
+]
